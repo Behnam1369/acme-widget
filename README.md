@@ -71,6 +71,7 @@ A minimal Ruby CLI app for a shopping basket with offers and delivery charge rul
 ### `main.rb`
 - Sets up the CLI, creates a `Basket`, and provides the user interface for adding products, printing, resetting, and exiting.
 
+## Author
 👤 **Behnam Aghaali**
 
 - GitHub: [https://github.com/Behnam1369](https://github.com/Behnam1369)
